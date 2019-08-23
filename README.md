@@ -1,0 +1,1 @@
+# angularJs_ng_controller_scope_inherited1
